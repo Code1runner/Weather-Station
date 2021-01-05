@@ -1,0 +1,23 @@
+@media (max-width: 1375px)
+{
+
+
+.au-card
+{
+    width: auto;
+    max-width: 100%;
+}
+
+.sun > h1
+{
+    font-size: 26px;
+}
+
+}
+
+
+.main-content
+{
+
+    padding-top: 0;
+}
